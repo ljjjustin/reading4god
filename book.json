@@ -1,0 +1,37 @@
+{
+    "title": "读书笔记",
+    "author": "Jiajun <iamljj@gmail.com>",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+        }
+    },
+    "language": "zh-hans",
+    "plugins": [
+        "-sharing",
+        "-highlight", "prism", "prism-themes", "code",
+        "splitter", "multipart", "expandable-chapters", "chapter-fold",
+        "tbfed-pagefooter", "hide-element", "back-to-top-button",
+        "-lunr", "-search", "search-pro",
+        "page-toc-button"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "&copy ",
+            "modify_label": "updated: ",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "page-toc-button": {
+            "maxTocDepth": 2,
+            "minTocSize": 2
+        }
+    }
+}
