@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/auto-number.css">
+<link rel="stylesheet" type="text/css" href="../../auto-number.css">
 
 # 认识神的人
 
