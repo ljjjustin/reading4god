@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="/auto-number.css">
+<link rel="stylesheet" type="text/css" href="../../auto-number.css">
 
 # 未来就在今天
 
